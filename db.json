@@ -1,24 +1,54 @@
 {
   "movies": [
     {
+      "id": 1,
       "title": "Inception",
-      "description": "A mind-bending thriller by Christopher Nolan.",
+      "description": "A thief who enters the dreams of others to steal their secrets.",
       "releaseYear": 2010,
-      "genre": "Sci-Fi",
-      "watched": false,
-      "rating": 5,
-      "review": "Amazing movie with a great plot twist.",
-      "id": "1"
+      "genre": "Science Fiction",
+      "watched": true,
+      "rating": 4.5,
+      "review": "Mind-bending and visually stunning!"
     },
     {
-      "title": "retgergh",
-      "description": "dfhgefhbdgdfgdfgdfgdfgdfgdgort jynrtklhkljentyjklhneotyjhoejrop t;hjioperjt\nhoperwmothmoeprthjoperjthiopj\nerotmhlerjthopjertopheoprtmherjk\ntpohjer0thopermtophierjkthoper\ntophjpioertthoerttohjerthioert",
-      "releaseYear": "345643434343",
-      "genre": "gfdg",
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "releaseYear": 1994,
+      "genre": "Drama",
       "watched": false,
-      "rating": "4",
-      "review": "jhgjhggj",
-      "id": "c4c7"
+      "rating": null,
+      "review": null
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "releaseYear": 2008,
+      "genre": "Action, Crime, Drama",
+      "watched": true,
+      "rating": 5,
+      "review": "Heath Ledger's Joker is iconic!"
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "releaseYear": 1994,
+      "genre": "Crime, Drama",
+      "watched": true,
+      "rating": 4.8,
+      "review": "Quentin Tarantino's masterpiece!"
+    },
+    {
+      "id": 5,
+      "title": "Interstellar",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "releaseYear": 2014,
+      "genre": "Adventure, Drama, Sci-Fi",
+      "watched": false,
+      "rating": null,
+      "review": null
     }
   ]
 }
